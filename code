@@ -17,4 +17,3 @@ do {
    int rowsAffected = db.update(db.TABLE_ORDERS, cv, whereClause, whereArgs)
    
  }
- 
